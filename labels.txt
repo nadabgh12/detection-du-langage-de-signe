@@ -1,0 +1,15 @@
+0 boire
+1 content
+2 desole
+3 dormir
+4 i love you
+5 je
+6 madame
+7 manger
+8 monsieur
+9 non
+10 oui
+11 s'appelle
+12 se reveiller
+13 soir
+14 thankyou
